@@ -4,11 +4,13 @@ You can create Mac Os X Bundle easily with this script. You dont need xcode or s
 NOTE: this script only run on MAC OS X computers
 
 INSTALL:
+
   -- download script
  
  
 
 USAGE:
+
   $ chmod +x AppBundleCreator
   $ ./AppBundleCreator 
   $ ls # see your application :D 
