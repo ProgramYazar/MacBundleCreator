@@ -3,26 +3,32 @@
 You can create Mac Os X Bundle easily with this script. You dont need xcode or special program. 
 NOTE: this script only run on MAC OS X computers
 
-INSTALL:
 
-  -- download script
- 
- 
+### INSTALL
 
-USAGE:
+- Just download the script to your project root folder 
 
+
+### USAGE
+```bash
+  $ cp AppBundleCreator /your/project/folder
+  $ cd /your/project/folder 
   $ chmod +x AppBundleCreator
-  $ ./AppBundleCreator 
-  $ ls # see your application :D 
+  $ ./AppBundleCreator
+  ... enter inputs
+  $ ls # you must to see your application at here
+ ```
  
+ 
+ 
+### FEATURES
 
-FEATURES:
-  -- create icon set from given png icon file (png min size must be 512 x 512)
-  -- create an application for you
+- create icon set from your given png icon file (png icon's min size must to be 512 x 512)
+- create an application for you
 
 
  
-ROAD MAP:
-  -- i have also develop a java (swing) gui for this purpose, i'll upload the github when finish!
-  -- maybe i can try to sign application 
+### ROAD MAP
+- i have been also developing a java (swing) gui for this project, i'll upload the github when it finish!
+- maybe i can try to sign application bundle
   
